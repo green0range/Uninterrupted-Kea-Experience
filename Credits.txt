@@ -1,0 +1,9 @@
+Everything is made by Green0range or Deimos Impact unless otherwise stated in this document.
+
+Programming is by Green0range
+Art and Music is by Deimos Impact
+
+Tiger Growl sound effect: Juaspyro (YouTube) - https://www.youtube.com/watch?v=tbylGZuMU7c
+
+This Game was developed for PyWeek, which is a competition to programme a game, in python, in a week.
+The pyweek orginisers are credited for the theme of 'aftermath' Checkout pyweek.org
